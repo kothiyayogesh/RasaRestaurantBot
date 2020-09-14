@@ -13,8 +13,8 @@
 action_endpoint:
  url: "http://localhost:5055/webhook"
 
-nlu:
- url: "http://localhost:6001"
+#nlu:
+# url: "http://localhost:6001"
 
 #tracker_store:
 #    type: SQL
